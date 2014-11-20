@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "name": "com.softeon.pdf",
+    "cordova_name": "PdfViewer",
+    "description": "Cordova Android PDFGen Plugin",
+    "license": "MIT",
+    "repo": "https://github.com/lilford/PDFGen",
+    "keywords": [
+        "cordova", "pdf", "pdfgen", "generate", "android", "open"
+    ],
+    "engines": [
+        {
+            "name": "cordova",
+            "version": ">=3.3.0"
+        }
+    ]
+}
